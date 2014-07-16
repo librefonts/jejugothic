@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GPOS>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=7 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="7"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="cyrl"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="1"/>
+            <FeatureIndex index="1" value="8"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="2">
+        <ScriptTag value="grek"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="2"/>
+            <FeatureIndex index="1" value="9"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="3">
+        <ScriptTag value="hang"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="3"/>
+            <FeatureIndex index="1" value="10"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="4">
+        <ScriptTag value="hani"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="4"/>
+            <FeatureIndex index="1" value="11"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="5">
+        <ScriptTag value="kana"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="5"/>
+            <FeatureIndex index="1" value="12"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="6">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="6"/>
+            <FeatureIndex index="1" value="13"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=14 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="halt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="halt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="halt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="halt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="halt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="halt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="halt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="vhal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="vhal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="vhal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="vhal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="11">
+        <FeatureTag value="vhal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="12">
+        <FeatureTag value="vhal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="13">
+        <FeatureTag value="vhal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=2 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SinglePos index="0" Format="1">
+          <Coverage Format="2">
+            <Glyph value="cid00102"/>
+            <Glyph value="cid00103"/>
+            <Glyph value="cid00104"/>
+            <Glyph value="cid00108"/>
+            <Glyph value="cid00109"/>
+            <Glyph value="cid00114"/>
+            <Glyph value="cid00115"/>
+            <Glyph value="cid00116"/>
+            <Glyph value="cid00117"/>
+            <Glyph value="cid00118"/>
+            <Glyph value="cid00119"/>
+            <Glyph value="cid00120"/>
+            <Glyph value="cid00121"/>
+            <Glyph value="cid00122"/>
+            <Glyph value="cid00123"/>
+            <Glyph value="cid00124"/>
+            <Glyph value="cid00125"/>
+            <Glyph value="cid00126"/>
+            <Glyph value="cid00127"/>
+            <Glyph value="cid00128"/>
+            <Glyph value="cid00129"/>
+            <Glyph value="cid00138"/>
+            <Glyph value="cid00139"/>
+            <Glyph value="cid00140"/>
+            <Glyph value="cid00199"/>
+            <Glyph value="cid00200"/>
+            <Glyph value="cid00201"/>
+            <Glyph value="cid00202"/>
+            <Glyph value="cid00203"/>
+            <Glyph value="cid00204"/>
+            <Glyph value="cid00205"/>
+            <Glyph value="cid00206"/>
+            <Glyph value="cid00207"/>
+            <Glyph value="cid00208"/>
+            <Glyph value="cid00209"/>
+            <Glyph value="cid00264"/>
+            <Glyph value="cid00265"/>
+            <Glyph value="cid00270"/>
+            <Glyph value="cid00275"/>
+            <Glyph value="cid00277"/>
+            <Glyph value="cid00289"/>
+            <Glyph value="cid00290"/>
+            <Glyph value="cid00327"/>
+            <Glyph value="cid00354"/>
+            <Glyph value="cid00356"/>
+            <Glyph value="cid00449"/>
+            <Glyph value="cid00842"/>
+            <Glyph value="cid00843"/>
+            <Glyph value="cid00844"/>
+            <Glyph value="cid00845"/>
+            <Glyph value="cid00846"/>
+            <Glyph value="cid00847"/>
+            <Glyph value="cid00848"/>
+            <Glyph value="cid00849"/>
+            <Glyph value="cid00850"/>
+            <Glyph value="cid08191"/>
+            <Glyph value="cid08192"/>
+            <Glyph value="cid08193"/>
+            <Glyph value="cid08194"/>
+            <Glyph value="cid08195"/>
+            <Glyph value="cid08196"/>
+            <Glyph value="cid08197"/>
+            <Glyph value="cid08198"/>
+            <Glyph value="cid08199"/>
+            <Glyph value="cid08200"/>
+            <Glyph value="cid08201"/>
+            <Glyph value="cid08202"/>
+            <Glyph value="cid08203"/>
+            <Glyph value="cid08204"/>
+            <Glyph value="cid08205"/>
+            <Glyph value="cid08206"/>
+            <Glyph value="cid08207"/>
+            <Glyph value="cid08208"/>
+            <Glyph value="cid08209"/>
+            <Glyph value="cid08210"/>
+            <Glyph value="cid08211"/>
+            <Glyph value="cid08212"/>
+            <Glyph value="cid08213"/>
+            <Glyph value="cid08214"/>
+            <Glyph value="cid08215"/>
+            <Glyph value="cid08216"/>
+            <Glyph value="cid08217"/>
+            <Glyph value="cid08218"/>
+            <Glyph value="cid08219"/>
+            <Glyph value="cid08220"/>
+            <Glyph value="cid08221"/>
+            <Glyph value="cid08222"/>
+            <Glyph value="cid08223"/>
+            <Glyph value="cid08224"/>
+            <Glyph value="cid08225"/>
+            <Glyph value="cid08226"/>
+            <Glyph value="cid08227"/>
+            <Glyph value="cid08228"/>
+            <Glyph value="cid08229"/>
+            <Glyph value="cid08230"/>
+            <Glyph value="cid08231"/>
+            <Glyph value="cid08232"/>
+            <Glyph value="cid08233"/>
+            <Glyph value="cid08234"/>
+            <Glyph value="cid08235"/>
+            <Glyph value="cid08236"/>
+            <Glyph value="cid08237"/>
+            <Glyph value="cid08238"/>
+            <Glyph value="cid08239"/>
+            <Glyph value="cid08240"/>
+            <Glyph value="cid08241"/>
+            <Glyph value="cid08242"/>
+            <Glyph value="cid08243"/>
+            <Glyph value="cid08244"/>
+            <Glyph value="cid08245"/>
+            <Glyph value="cid08246"/>
+            <Glyph value="cid08247"/>
+            <Glyph value="cid08248"/>
+            <Glyph value="cid08249"/>
+            <Glyph value="cid08250"/>
+            <Glyph value="cid08251"/>
+            <Glyph value="cid08252"/>
+            <Glyph value="cid08253"/>
+            <Glyph value="cid08254"/>
+            <Glyph value="cid08255"/>
+            <Glyph value="cid08256"/>
+            <Glyph value="cid08257"/>
+            <Glyph value="cid08258"/>
+            <Glyph value="cid08259"/>
+            <Glyph value="cid08260"/>
+            <Glyph value="cid08261"/>
+            <Glyph value="cid08275"/>
+            <Glyph value="cid08276"/>
+            <Glyph value="cid08277"/>
+            <Glyph value="cid08278"/>
+            <Glyph value="cid08279"/>
+            <Glyph value="cid08280"/>
+            <Glyph value="cid08281"/>
+            <Glyph value="cid08282"/>
+            <Glyph value="cid08283"/>
+            <Glyph value="cid08284"/>
+            <Glyph value="cid08285"/>
+            <Glyph value="cid08286"/>
+            <Glyph value="cid08287"/>
+            <Glyph value="cid08288"/>
+            <Glyph value="cid08289"/>
+            <Glyph value="cid08290"/>
+            <Glyph value="cid08291"/>
+            <Glyph value="cid08292"/>
+            <Glyph value="cid08293"/>
+            <Glyph value="cid08294"/>
+            <Glyph value="cid08295"/>
+            <Glyph value="cid08296"/>
+            <Glyph value="cid08318"/>
+            <Glyph value="cid08319"/>
+            <Glyph value="cid08578"/>
+            <Glyph value="cid08579"/>
+            <Glyph value="cid08580"/>
+            <Glyph value="cid08581"/>
+            <Glyph value="cid08582"/>
+            <Glyph value="cid09314"/>
+            <Glyph value="cid09315"/>
+            <Glyph value="cid09316"/>
+            <Glyph value="cid09317"/>
+            <Glyph value="cid09322"/>
+            <Glyph value="cid09323"/>
+            <Glyph value="cid09331"/>
+            <Glyph value="cid09332"/>
+          </Coverage>
+          <ValueFormat value="5"/>
+          <Value XPlacement="-226" XAdvance="-459"/>
+        </SinglePos>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=3 -->
+        <SinglePos index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="cid08056"/>
+            <Glyph value="cid08057"/>
+            <Glyph value="cid08064"/>
+            <Glyph value="cid08066"/>
+            <Glyph value="cid08068"/>
+            <Glyph value="cid08070"/>
+            <Glyph value="cid08072"/>
+            <Glyph value="cid08074"/>
+            <Glyph value="cid08078"/>
+            <Glyph value="cid08079"/>
+            <Glyph value="cid08080"/>
+            <Glyph value="cid08088"/>
+            <Glyph value="cid08092"/>
+            <Glyph value="cid09324"/>
+            <Glyph value="cid09326"/>
+          </Coverage>
+          <ValueFormat value="8"/>
+          <Value YAdvance="-500"/>
+        </SinglePos>
+        <SinglePos index="1" Format="1">
+          <Coverage Format="1">
+            <Glyph value="cid08061"/>
+            <Glyph value="cid08091"/>
+          </Coverage>
+          <ValueFormat value="10"/>
+          <Value YPlacement="250" YAdvance="-500"/>
+        </SinglePos>
+        <SinglePos index="2" Format="1">
+          <Coverage Format="1">
+            <Glyph value="cid08063"/>
+            <Glyph value="cid08065"/>
+            <Glyph value="cid08067"/>
+            <Glyph value="cid08069"/>
+            <Glyph value="cid08071"/>
+            <Glyph value="cid08073"/>
+            <Glyph value="cid08077"/>
+            <Glyph value="cid08087"/>
+            <Glyph value="cid08090"/>
+            <Glyph value="cid09325"/>
+            <Glyph value="cid09327"/>
+          </Coverage>
+          <ValueFormat value="10"/>
+          <Value YPlacement="500" YAdvance="-500"/>
+        </SinglePos>
+      </Lookup>
+    </LookupList>
+  </GPOS>
+
+</ttFont>
