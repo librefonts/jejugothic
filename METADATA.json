@@ -1,0 +1,33 @@
+{
+  "name": "JejuGothic",
+  "designer": "Multiple Designers",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 802116,
+  "fonts": [
+    {
+      "name": "JejuGothic",
+      "style": "normal",
+      "weight": 400,
+      "filename": "JejuGothicOTF-Regular.ttf",
+      "postScriptName": "JejuGothicOTF00",
+      "fullName": "",
+      "copyright": ""
+    },
+    {
+      "name": "JejuGothic",
+      "style": "normal",
+      "weight": 400,
+      "filename": "JejuGothic-Regular.ttf",
+      "postScriptName": "JejuGothic",
+      "fullName": "JejuGothic",
+      "copyright": "Copyright (c) 2010 Sandoll Communications Inc. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}

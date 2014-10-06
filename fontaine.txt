@@ -1,0 +1,90 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: 제주고딕OTF
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2010 Sandoll Communications Inc. All rights reserved.
+    License: Sandoll Communications Inc.
+    License url: http://www.sandoll.co.kr
+    Version: Version 1.000;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325
+    Vendor: Sandoll Communications Inc.
+    Vendor url: http://www.sandoll.co.kr
+    Designer: Sandoll Communications Inc.
+    Designer url: http://www.sandoll.co.kr
+    Glyph count: 18315
+    Character count: 17716
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 69
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: fragmentary
+          Percent coverage: 66
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: partial
+          Percent coverage: 84
+  Font:
+    Common name: 
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright © 2010 Sandoll Communications Inc. All rights reserved.
+    License: Sandoll Communicatinos Inc.
+    License url: http://www.sandoll.co.kr
+    Version: Version 1.000
+    Vendor: Sandoll Communicatinos Inc.
+    Vendor url: http://www.sandoll.co.kr
+    Designer: 이도경; 노영권;
+    Designer url: http://www.sandoll.co.kr
+    Glyph count: 18315
+    Character count: 17684
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 69
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: fragmentary
+          Percent coverage: 66
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: partial
+          Percent coverage: 84
